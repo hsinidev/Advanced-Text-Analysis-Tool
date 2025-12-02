@@ -1,0 +1,5 @@
+{
+  "name": "Cosmic Counter - Character, Word, and Line Counter",
+  "description": "A modern, real-time character, word, sentence, and line counter tool with a stunning animated cosmic theme. Instantly analyze your text with pure JavaScript string manipulation methods, copy text, and clear the input with a single click.",
+  "requestFramePermissions": []
+}

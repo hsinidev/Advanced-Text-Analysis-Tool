@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Advanced Text Analysis Tool
-### *Modern, High-Performance JavaScript Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Advanced%20Text%20Analysis%20T&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Advanced Text Analysis Tool Header Banner" />
+
+  <h1>🚀 Advanced Text Analysis Tool</h1>
+  <p><em>Modern, High-Performance JavaScript Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge" alt="Language: TypeScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge" alt="Framework: JavaScript" /></a>
+    <a href="https://github.com/hsinidev/Advanced-Text-Analysis-Tool"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Advanced Text Analysis Tool** is a production-grade **TypeScript** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -25,6 +29,7 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `TypeScript`
@@ -32,74 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# 🌌 Doodax - Advanced Text Analysis Tool
-
-**A high-performance, privacy-focused React application for real-time text analysis, wrapped in a stunning cosmic interface.**
-
-
-## 🚀 LIVE DEMO
-Experience the power of the cosmos: [**doodax.com**](https://doodax.com) (Opens in new tab)
-
----
-
-## 📖 Introduction
-
-
-Built with modern web technologies, it features a glassmorphism UI, animated nebula backgrounds, and robust privacy features (all processing is client-side). It includes advanced metrics like **reading time**, **speaking time**, and **keyword density analysis**, all optimized for maximum SEO performance.
-
-## ✨ Key Features
-
-### 🛠 Core Functionality
-- **Real-Time Analysis**: Instant updates for Characters, Words, Sentences, and Lines.
-- **Advanced Metrics**: 
-  - ⏱️ **Reading Time Calculator** (based on 200 wpm).
-  - 🗣️ **Speaking Time Calculator** (based on 130 wpm).
-  - 🔑 **Keyword Density**: Identifies the top 5 recurring words (excluding stop words).
-- **Text Transformation**: One-click conversion to UPPERCASE, lowercase, Title Case, and Sentence case.
-- **Smart Copy & Clear**: Effortless clipboard integration.
-
-### 🎨 UI/UX Design
-- **Cosmic Theme**: Animated starfields, nebula blobs, and particle effects.
-- **Glassmorphism**: Modern, frosted-glass aesthetic for readability and style.
-- **Responsive**: Flawless experience on Mobile, Tablet, and Desktop.
-- **Modal System**: Integrated pop-up modals for legal and informational pages (About, Privacy, etc.).
-
-### 🔍 SEO & Technical
-- **SEO Optimized**: Fully integrated `robots.txt`, `sitemap.xml`, and JSON-LD Schema.org structured data.
-- **High Performance**: 100% Client-side processing (Zero Latency).
-- **Accessibility**: ARIA-compliant structure and semantic HTML5.
-
-## 📂 Project Structure
-
-```
-/
-├── public/
-│   ├── favicon.svg        # Brand Icon
-│   ├── robots.txt         # Crawler Directives
-│   └── sitemap.xml        # SEO Site Map
-├── src/
-│   ├── components/
-│   │   ├── TextCounterTool.tsx  # Main Logic: Inputs, Metrics, Transformations
-│   │   └── ThemeLayout.tsx      # Layout: Background, Header, Footer, Modals
-│   ├── utils/
-│   │   ├── SeoArticle.tsx       # Content: 3500+ Word Guide with Schema
-│   │   └── StringMath.ts        # Logic: Pure Math/Regex functions
-│   ├── App.tsx                  # Application Root
-│   └── index.tsx                # Entry Point
-├── index.html                 # HTML Shell & Meta Tags
-└── README.md                  # Documentation
-```
-
-
-**HSINI MOHAMED**
-
-- **GitHub**: [@hsinidev](https://github.com/hsinidev)
-- **Website**: [doodax.com](https://doodax.com)
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
